@@ -1,0 +1,9 @@
+C:\Users\Mike\source\repos\OCR\OCR\bin\Debug\OCR.exe.config
+C:\Users\Mike\source\repos\OCR\OCR\bin\Debug\OCR.exe
+C:\Users\Mike\source\repos\OCR\OCR\bin\Debug\OCR.pdb
+C:\Users\Mike\source\repos\OCR\OCR\bin\Debug\tessnet2_32.dll
+C:\Users\Mike\source\repos\OCR\OCR\obj\Debug\OCR.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\OCR\OCR\obj\Debug\OCR.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\OCR\OCR\obj\Debug\OCR.csproj.CopyComplete
+C:\Users\Mike\source\repos\OCR\OCR\obj\Debug\OCR.exe
+C:\Users\Mike\source\repos\OCR\OCR\obj\Debug\OCR.pdb
