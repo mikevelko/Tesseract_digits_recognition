@@ -1,4 +1,4 @@
-﻿using Ghostscript.NET.Rasterizer;
+﻿
 using ImageMagick;
 using System;
 using System.Collections.Generic;

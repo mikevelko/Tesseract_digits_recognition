@@ -18,9 +18,6 @@ F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.
 F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.CoreCompileInputs.cache
 F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.exe
 F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.pdb
-F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Ghostscript.NET.dll
-F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\GhostscriptSharp.dll
-F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Ghostscript.NET.xml
 F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.CopyComplete
 F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Magick.NET-Q16-AnyCPU.dll
 F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Magick.NET.Core.dll
