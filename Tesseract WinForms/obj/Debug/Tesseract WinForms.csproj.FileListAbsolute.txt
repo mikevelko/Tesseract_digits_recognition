@@ -1,0 +1,10 @@
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\bin\Debug\Tesseract WinForms.exe.config
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\bin\Debug\Tesseract WinForms.exe
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\bin\Debug\Tesseract WinForms.pdb
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract_WinForms.Form1.resources
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract_WinForms.Properties.Resources.resources
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.exe
+C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.pdb
