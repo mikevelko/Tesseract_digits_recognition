@@ -8,3 +8,21 @@ C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesse
 C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.CoreCompileInputs.cache
 C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.exe
 C:\Users\Mike\source\repos\Tesseract WinForms\Tesseract WinForms\obj\Debug\Tesseract WinForms.pdb
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Tesseract WinForms.exe.config
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Tesseract WinForms.exe
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Tesseract WinForms.pdb
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.csprojAssemblyReference.cache
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract_WinForms.Form1.resources
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract_WinForms.Properties.Resources.resources
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.GenerateResource.cache
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.CoreCompileInputs.cache
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.exe
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.pdb
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Ghostscript.NET.dll
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\GhostscriptSharp.dll
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Ghostscript.NET.xml
+F:\Tesseract_digits_recognition\Tesseract WinForms\obj\Debug\Tesseract WinForms.csproj.CopyComplete
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Magick.NET.Core.dll
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+F:\Tesseract_digits_recognition\Tesseract WinForms\bin\Debug\Magick.NET.Core.xml

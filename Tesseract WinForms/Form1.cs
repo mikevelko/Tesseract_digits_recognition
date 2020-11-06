@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Ghostscript.NET.Rasterizer;
+using ImageMagick;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,7 +35,7 @@ namespace Tesseract_WinForms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            String ImageLocation = "";
+            string ImageLocation;
             try 
             {
                 OpenFileDialog dialog = new OpenFileDialog();
@@ -46,6 +48,35 @@ namespace Tesseract_WinForms
                 }
 
                 
+            }
+            catch (Exception)
+            {
+                MessageBox.Show(" error in uploading pic", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+            }
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string ImageLocation;
+            try
+            {
+                OpenFileDialog dialog = new OpenFileDialog();
+                dialog.Filter = "eps files(.*eps)|*.eps";
+
+                if (dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                {
+                    ImageLocation = dialog.FileName;
+                    using (MagickImage image = new MagickImage(@ImageLocation))
+                    {
+                        image.Format = MagickFormat.Png;
+                        image.Write(@"./2.png");
+                    }
+                    pictureBox1.Image = Image.FromFile("2.png");
+                }
+
+
             }
             catch (Exception)
             {
@@ -129,5 +160,7 @@ namespace Tesseract_WinForms
         {
 
         }
+
+
     }
 }
