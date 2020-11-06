@@ -1,6 +1,6 @@
 # Winforms app to recognize text from image
 ### How it works:
-- Upload your picture
+- Upload your picture (png,jpg)
 - You can set the threshold coefficient that removes noizes and pixels that are not a text from picture
 - Set ```--psm N``` option (mostly option number 6 works better than others). Set Tesseract to only run a subset of layout analysis and assume a certain form of image. 
 - The options for N are:
