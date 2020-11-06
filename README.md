@@ -1,4 +1,6 @@
 # Winforms app to recognize text from image
+## PLEASE INSTALL GHOSTSCRIPT FIRST:
+- https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs9533/gs9533w64.exe
 ### How it works:
 - Upload your picture ```(.png, .jpg)```
 - Or you can upload ```(.eps)```
