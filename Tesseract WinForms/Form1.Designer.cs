@@ -105,7 +105,7 @@
             this.numericUpDown2.TabIndex = 6;
             this.numericUpDown2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.numericUpDown2.Value = new decimal(new int[] {
-            50,
+            70,
             0,
             0,
             0});
