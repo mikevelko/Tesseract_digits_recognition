@@ -1,5 +1,8 @@
 # Winforms app to recognize text from image
-## PLEASE INSTALL GHOSTSCRIPT FIRST:
+## Description:
+This app could recognize text (english) and digits from images and Encapsulated PostScript files.
+Gives you an ability to change a threshold coefficient for better recognition.
+## PLEASE INSTALL GHOSTSCRIPT FIRST
 - https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs9533/gs9533w64.exe  
 It needs to open ```.eps``` files
 ## Requirements to run project:
