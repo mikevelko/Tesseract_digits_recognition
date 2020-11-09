@@ -2,6 +2,10 @@
 ## PLEASE INSTALL GHOSTSCRIPT FIRST:
 - https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs9533/gs9533w64.exe  
 It needs to open ```.eps``` files
+## Requirements to run project:
+- Make sure you are on Windows now and have installed Visual Studio and .NET Framewok 4.8
+- Open ```Tesseract WinForms.sln``` with Visual Studio
+- and run project (F5)
 ### How it works:
 - Upload your picture ```(.png, .jpg)```
 - Or you can upload ```(.eps)``` (make sure you have installed GhostScript by link above)
